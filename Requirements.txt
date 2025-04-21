@@ -1,7 +1,0 @@
-streamlit
-transformers
-torch
-pandas
-numpy
-altair
-
